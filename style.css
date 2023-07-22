@@ -1,0 +1,32 @@
+* {
+    font-family:'Times New Roman',Arial, sans-serif;
+    font-size: 20px;
+    color:rgba(255, 255, 255, 0.91);
+    background-color: rgba(33, 15, 15,0.90);
+    margin: auto;
+    margin-left:5px;
+}
+
+h1,h2,h3 {
+    font-size: 70px;
+    color: pink;
+}
+
+h2,h3 {
+    font-size: 40px;
+}
+
+img {
+    width: auto;
+    height: 500px;
+}
+
+li,p {
+    font-weight: bold;
+}
+a{text-decoration: none;}
+a.styled {
+    font-weight: bold;
+    color:rgb(150, 45, 62);
+    font-size: 40px;
+}
