@@ -30,3 +30,18 @@ a.styled {
     color:rgb(150, 45, 62);
     font-size: 40px;
 }
+.body-index {
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px 15px;
+    width: 700px;
+    height: auto;
+}
+.list-index li {
+    margin: 8px;
+    padding: 8px;
+    display: block;
+}
+.list-index {
+    padding: 0;
+}
